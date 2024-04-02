@@ -1,3 +1,6 @@
+
+// bo ngo
+
 #include<iostream>
 using namespace std;
 int X[8] = {-1,-1, 1, 2, 1, -2,2, -2 };
